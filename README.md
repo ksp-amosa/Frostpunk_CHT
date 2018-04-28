@@ -15,12 +15,13 @@
 並且已經先轉換成繁體。可以利用使專案頁面中留言回報的方式，格式如下：<br />
 <br />
 `
-原文整句： 這是一句原文範例<br />
-建議校正： 這是一句校正範例<br />
-附圖檔案： 請使用imgur.com 上傳圖片與連結<br />
-`<br />
+原文整句： 這是一句原文範例 <br />
+建議校正： 這是一句校正範例 <br />
+附圖檔案： 請使用imgur.com 上傳圖片與連結 <br />
+`
 <br />
-## 阿MOSA的各個頻道，您的按讚與訂閱都是支持阿MOSA繼續經營的動力 感謝您= 
-阿MOSA實況社群 twitch.tv/amosa2001 <br />
-阿MOSA Youtube頻道 youtube.com/c/AmosaYang <br />
-阿MOSA B站頻道 space.bilibili.com/290017582 <br />
+<br />
+## 讚、分享與訂閱都是支持阿MOSA繼續經營的動力唷= 
+阿MOSA實況社群  https://twitch.tv/amosa2001 <br />
+阿MOSA Youtube頻道  https://youtube.com/c/AmosaYang <br />
+阿MOSA B站頻道  https://space.bilibili.com/290017582 <br />
