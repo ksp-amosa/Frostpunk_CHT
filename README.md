@@ -25,9 +25,9 @@
 > 附圖檔案： 請使用imgur.com 上傳圖片與連結<br />
 
 <br />
-## 讚、分享與訂閱都是支持阿MOSA繼續經營的動力唷 <br />
-`
-阿MOSA實況社群  https://twitch.tv/amosa2001
-阿MOSA Youtube頻道  https://youtube.com/c/AmosaYang
-阿MOSA B站頻道  https://space.bilibili.com/290017582
-`
+## 讚、分享與訂閱都是支持阿MOSA繼續經營的動力唷 :sparkling_heart: <br />
+
+阿MOSA實況社群  https://twitch.tv/amosa2001 <br />
+阿MOSA Youtube頻道  https://youtube.com/c/AmosaYang <br />
+阿MOSA B站頻道  https://space.bilibili.com/290017582 <br />
+
