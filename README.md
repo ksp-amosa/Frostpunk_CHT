@@ -23,9 +23,10 @@
 > 整句： 這是一句原文範例<br />
 > 建議校正： 這是一句校正範例<br />
 > 附圖檔案： 請使用imgur.com 上傳圖片與連結<br />
-
 <br />
-## 讚、分享與訂閱都是支持阿MOSA繼續經營的動力唷 :sparkling_heart: <br />
+<br />
+
+## 讚、分享與訂閱都是支持阿MOSA繼續經營的動力唷 :sparkling_heart: 
 
 阿MOSA實況社群  https://twitch.tv/amosa2001 <br />
 阿MOSA Youtube頻道  https://youtube.com/c/AmosaYang <br />
