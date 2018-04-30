@@ -1,8 +1,4 @@
-﻿[TO BE REMOVED] Oppresion
-[TO BE REMOVED] Oppresion
-[TO BE REMOVED] Order
-[TO BE REMOVED] Coercion
-[NOT USED] Alcohol
+﻿[NOT USED] Alcohol
 [NOT USED] Liquid Fuel
 [NOT USED] Biolab can now produce Liquid Fuel
 People will gather Coal faster.
@@ -320,7 +316,6 @@ Weather is clear.
 Ability conditions not met.
 Ability cooldown has not expired yet.
 Building has already been upgraded.
-[TO BE REMOVED] [NOT USED #76]
 This building is already being dismantled.
 This building is damaged.
 This building has been disabled by modifiers.
@@ -328,25 +323,19 @@ This building can't be activated at the moment.
 This building is under construction.
 Building is already being upgraded.
 This building is being dismantled.
-[TO BE REMOVED] [NOT USED #75]
 Production queue empty.
 This building is locked in the current scenario.
 This facility has been shut down.
 This building can't be constructed – it can only be converted from an existing building.
-[TO BE REMOVED] [NOT USED #77]
 This building can't be dismantled.
 This facility has been closed
 You can't demolish the last resource depot!
-[TO BE REMOVED] [NOT USED #82]
 Dismantling has been disabled by modifiers.
 The resource has been depleted.
 Expedition halted – storage limit reached.
 Storage limit reached.
 The Generator is shutting down, but still burning Coal.</n></n>Before turning it back on, make sure you can afford to run it at the selected settings.
-[TO BE REMOVED] [NOT USED #78]
-[TO BE REMOVED] [NOT USED #79]
 You can't demolish the last {BuildingName}!
-[TO BE REMOVED] [NOT USED #83]
 Requires a functioning {BuildingName} building.
 Requires a working {CategoryName} building.
 Requires {Count} working {BuildingName}
@@ -362,19 +351,12 @@ Waiting for workers...
 Could not activate building. Requires: {ResourceList}
 Could not resume production. Requires: {ResourceList}
 Could not keep building in operation. Requires: {ResourceList}
-[TO BE REMOVED] [NOT USED #74]
 Building here will block place for an important facility.
 Building here will destroy resource source(s)!
 This building requires the heat zone
 Resource for storage not specified.
-[TO BE REMOVED] [NOT USED #80]
 The Generator is off
 The Generator is turned off
-[TO BE REMOVED] [NOT USED #8]
-[TO BE REMOVED] [NOT USED #10]
-[TO BE REMOVED] [NOT USED #7]
-[TO BE REMOVED] [NOT USED #9]
-[TO BE REMOVED] [NOT USED #81]
 All the selected people are dead.
 All the selected people are dead or on an expedition.
 All the selected people are on an expedition.
@@ -418,19 +400,14 @@ Discontent is too high to introduce this law.
 This law is blocked by another one.
 {SociotechName} not unlocked.
 Street is under construction.
-[TO BE REMOVED] [NOT USED #16]
 Street is not connected to the Generator.
 Not adjacent to street.
-[TO BE REMOVED] [NOT USED #14]
-[TO BE REMOVED] [NOT USED #15]
 This building is already researching other technology.
 There are no buildings available to research this technology.
 No research buildings available.
 Another technology is currently being researched.
 Technology already researched
-[TO BE REMOVED] [NOT USED #12]
 Unlock {UnlockName} is missing.
-[TO BE REMOVED] [NOT USED #11]
 Beacon has led a group of people to our city!</n></n>Group of 2 workers, 10 engineers and 3 children has joined the city.
 [NOT USED] Beacon has led a group of people to our city!</n></n>A group of 8 workers and 7 children has joined the city.
 Survivors find our city.
@@ -443,26 +420,10 @@ Sir, a group of survivors has reached our city. They are exhausted and beg us to
 Survivors reach the city
 [NOT USED] Some of our lost people managed to reach the city. They recount their ordeal of crossing the icy desert and implore you to save the rest of their party.</n></n>Group of</n>* 15 workers</n>* 10 engineers</n>has joined the city
 A call for help
-[TO BE REMOVED] [NOT USED #35]
-[TO BE REMOVED] [NOT USED #38]
-[TO BE REMOVED] [NOT USED #39]
-[TO BE REMOVED] [NOT USED #46]
-[TO BE REMOVED] [NOT USED #47]
-[TO BE REMOVED] [NOT USED #42]
-[TO BE REMOVED] [NOT USED #43]
-[TO BE REMOVED] [NOT USED #48]
-[TO BE REMOVED] [NOT USED #49]
-[TO BE REMOVED] [NOT USED #44]
-[TO BE REMOVED] [NOT USED #45]
 Escorting survivors to the city
 Escorting survivors to the city
-[TO BE REMOVED] [NOT USED #36]
-[TO BE REMOVED] [NOT USED #37]
-[TO BE REMOVED] [NOT USED #32]
 Awaiting orders
 Awaiting orders
-[TO BE REMOVED] [NOT USED #50]
-[TO BE REMOVED] [NOT USED #30]
 Proceeding to destination
 Depleted
 Resources
@@ -470,18 +431,8 @@ Survivors
 Unknown site
 (Automatons are sturdy enough to survive by themselves. Scouts can't help them in any way.)
 Automaton from {Origin}.
-[TO BE REMOVED] [NOT USED #24]
-[TO BE REMOVED] [NOT USED #25]
-[TO BE REMOVED] [NOT USED #26]
 ,|_|
 |_4|
-[TO BE REMOVED] [NOT USED #22]
-[TO BE REMOVED] [NOT USED #18]
-[TO BE REMOVED] [NOT USED #17]
-[TO BE REMOVED] [NOT USED #19]
-[TO BE REMOVED] [NOT USED #20]
-[TO BE REMOVED] [NOT USED #21]
-[TO BE REMOVED] [NOT USED #23]
 {baseResources}
 {bonusResources}
 {bothResources}
@@ -490,20 +441,6 @@ Automaton from {Origin}.
 {survivors}|_4||#color=FFCD00||Danger||#defaultcolor|
 |#color=FFCD00||Technology||#defaultcolor|
 {ExpeditionTypeName} {ExpeditionId}
-[TO BE REMOVED] days worth of food left
-[TO BE REMOVED] [NOT USED #54]
-[TO BE REMOVED] [NOT USED #56]
-[TO BE REMOVED] [NOT USED #52]
-[TO BE REMOVED] [NOT USED #53]
-[TO BE REMOVED] [NOT USED #55]
-[TO BE REMOVED] [NOT USED #51]
-[TO BE REMOVED] [NOT USED #63]
-[TO BE REMOVED] [NOT USED #60]
-[TO BE REMOVED] [NOT USED #62]
-[TO BE REMOVED] [NOT USED #58]
-[TO BE REMOVED] [NOT USED #59]
-[TO BE REMOVED] [NOT USED #61]
-[TO BE REMOVED] [NOT USED #57]
 Automatons
 Various Survivors
 Survivors
@@ -511,7 +448,6 @@ An explored waypoint for our scouts.
 A distinct spot in Frostland. We can use it as a waypoint for further exploration.
 This place is the only thing standing out in the endless desert.
 Journal Entry
-[TO BE REMOVED] [NOT USED #65]
 Carry on
 Our search hasn't uncovered anything of value, but we may be able to reach some more promising locations from here.
 New landmark
@@ -536,8 +472,6 @@ Time to reach our city: {DaysToReach} days.
 {DeadSurvivorCount} of them have already died on the way.
 (You can send scouts to meet the survivors and escort them to our city safely.)
 {SurvivorCount} survivors from {Origin}.
-[TO BE REMOVED] [NOT USED #68]
-[TO BE REMOVED] [NOT USED #69]
 Automatons
 Various Survivors
 Survivors
@@ -545,8 +479,6 @@ Group of Lords
 Our People
 Lonely Survivor
 Not explored by scouts yet.
-[TO BE REMOVED] [NOT USED #66]
-[TO BE REMOVED] [NOT USED #64]
 I have failed
 We have survived
 Cooldown
@@ -683,16 +615,13 @@ Needs refuelling
 × Desirable decision
 × End of thievery
 × Faith Keepers' success
-[TO BE REMOVED] [NOT USED #2]
 × Carnal pleasures
 × Forceful Persuasion
-[TO BE REMOVED] [NOT USED #1]
 × The Generator is broken
 The Generator is off
 × An adult died
 × An adult died
 × High discontent
-[TO BE REMOVED] [NOT USED #3]
 × A child died
 × A child died
 × Child saved
@@ -752,16 +681,9 @@ No recent changes to hope.
 Broken
 Damaged
 Working
-[TO BE REMOVED] [NOT USED #89]
-[TO BE REMOVED] [NOT USED #88]
-[TO BE REMOVED] [NOT USED #90]
-[TO BE REMOVED] [NOT USED #87]
 Hope
 Devotion
 Obedience
-[TO BE REMOVED] [NOT USED #91]
-[TO BE REMOVED] [NOT USED #93]
-[TO BE REMOVED] [NOT USED #92]
 On patrol
 On patrol
 On patrol
